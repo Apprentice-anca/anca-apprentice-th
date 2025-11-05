@@ -447,3 +447,13 @@ nav {
         font-size: 22px;
     }
 }
+
+.location h2 {
+    padding-left: 2rem;
+    font-size: 28px;
+    font-family: jedxfont;
+}
+
+.contact-box h2 {
+    font-family: jedxfont;
+}
